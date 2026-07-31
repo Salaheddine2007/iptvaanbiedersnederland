@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iptvaanbiedersnederland.nl/sitemap.xml

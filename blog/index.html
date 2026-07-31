@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<script>document.documentElement.classList.add('js')</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="index, follow">
+<title>Blog | IPTV Aanbieders Nederland</title>
+<meta name="description" content="Het laatste nieuws, gidsen en vergelijkingen over IPTV in Nederland — kanalen, apps, legaliteit en meer.">
+<link rel="canonical" href="https://iptvaanbiedersnederland.nl/blog/">
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+<link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+<nav>
+  <div class="nav-inner">
+    <a href="/" class="logo">IPTV<span>Aanbieders</span></a>
+    <div class="nav-links">
+      <a href="/iptv-aanbieders-nederland/">Aanbieders Vergelijken</a>
+      <a href="/#prijzen">Prijzen</a>
+      <a href="/iptv-kanalen-nederland/">Kanalen</a>
+      <a href="/iptv-kodi-nederland/">Apps &amp; Kodi</a>
+      <a href="/legale-iptv-nederland/">Is het Legaal?</a>
+      <a href="/blog/">Blog</a>
+      <a href="/contact/">Contact</a>
+    </div>
+    <a href="https://api.whatsapp.com/send/?phone=32497063717&text=Hoi%2C%20ik%20wil%20graag%20een%20gratis%20IPTV%20test" class="nav-cta">Gratis Proef</a>
+    <button class="hamburger" id="hamburger" aria-label="Menu openen" aria-expanded="false"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+<div class="mobile-nav" id="mobileNav" role="dialog" aria-modal="true">
+  <button class="mobile-nav-close" id="mobileClose" aria-label="Menu sluiten">✕</button>
+  <a href="/iptv-aanbieders-nederland/">Aanbieders Vergelijken</a>
+  <a href="/#prijzen">Prijzen</a>
+  <a href="/iptv-kanalen-nederland/">Kanalen</a>
+  <a href="/iptv-kodi-nederland/">Apps &amp; Kodi</a>
+  <a href="/legale-iptv-nederland/">Is het Legaal?</a>
+  <a href="/blog/">Blog</a>
+  <a href="/contact/">Contact</a>
+</div>
+
+<div class="blog-hero">
+  <span class="badge">📰 BLOG</span>
+  <h1>IPTV Nederland — Nieuws, Gidsen &amp; Vergelijkingen</h1>
+  <p class="blog-meta">Alles over IPTV aanbieders, kanalen, apps en legaliteit in Nederland</p>
+</div>
+
+<section>
+  <div class="container">
+    <div class="grid-3">
+      <div class="card">
+        <h3><a href="/iptv-aanbieders-nederland/" style="color:inherit;text-decoration:none">IPTV Aanbieders Nederland Vergelijken 2026</a></h3>
+        <p>Waar moet je op letten, wat kost een goed abonnement en hoe herken je een betrouwbare aanbieder?</p>
+        <a href="/iptv-aanbieders-nederland/" class="btn-secondary" style="display:inline-block;margin-top:1rem">Lees meer</a>
+      </div>
+      <div class="card">
+        <h3><a href="/iptv-kopen-nederland/" style="color:inherit;text-decoration:none">IPTV Kopen Nederland — Complete Koopgids</a></h3>
+        <p>Welke pakketten zijn er, wat is een eerlijke prijs, en hoe verloopt het bestelproces?</p>
+        <a href="/iptv-kopen-nederland/" class="btn-secondary" style="display:inline-block;margin-top:1rem">Lees meer</a>
+      </div>
+      <div class="card">
+        <h3><a href="/legale-iptv-nederland/" style="color:inherit;text-decoration:none">Is IPTV Legaal in Nederland?</a></h3>
+        <p>Uitleg over de Auteurswet, de Filmspeler-uitspraak en hoe je een aanbieder met de juiste licenties herkent.</p>
+        <a href="/legale-iptv-nederland/" class="btn-secondary" style="display:inline-block;margin-top:1rem">Lees meer</a>
+      </div>
+      <div class="card">
+        <h3><a href="/iptv-kodi-nederland/" style="color:inherit;text-decoration:none">IPTV Kodi Nederland — Installatiegids</a></h3>
+        <p>Stap-voor-stap gids voor Kodi, IPTV Smarters Pro, TiviMate en meer.</p>
+        <a href="/iptv-kodi-nederland/" class="btn-secondary" style="display:inline-block;margin-top:1rem">Lees meer</a>
+      </div>
+      <div class="card">
+        <h3><a href="/iptv-kanalen-nederland/" style="color:inherit;text-decoration:none">IPTV Kanalen Nederland &amp; M3U Playlists</a></h3>
+        <p>Welke zenders zitten in een abonnement, wat is een M3U-playlist en hoe werkt de EPG?</p>
+        <a href="/iptv-kanalen-nederland/" class="btn-secondary" style="display:inline-block;margin-top:1rem">Lees meer</a>
+      </div>
+      <div class="card">
+        <h3><a href="/iptv-boxen-nederland/" style="color:inherit;text-decoration:none">IPTV Box &amp; Ontvangers Nederland</a></h3>
+        <p>Android TV-box, Formuler, Dreambox of HDMI-stick? Vergelijk de beste hardware-opties.</p>
+        <a href="/iptv-boxen-nederland/" class="btn-secondary" style="display:inline-block;margin-top:1rem">Lees meer</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container footer-bottom">
+    <p>&copy; 2026 <a href="/">IPTVAanbiedersNederland.nl</a> — IPTV Aanbieders Nederland Vergelijken &amp; Kopen</p>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var hamburger = document.getElementById('hamburger');
+  var mobileNav = document.getElementById('mobileNav');
+  var mobileClose = document.getElementById('mobileClose');
+  if(hamburger && mobileNav){
+    hamburger.addEventListener('click', function(){ mobileNav.classList.add('open'); hamburger.setAttribute('aria-expanded','true'); });
+  }
+  if(mobileClose && mobileNav){
+    mobileClose.addEventListener('click', function(){ mobileNav.classList.remove('open'); hamburger.setAttribute('aria-expanded','false'); });
+  }
+  mobileNav.querySelectorAll('a').forEach(function(a){ a.addEventListener('click', function(){ mobileNav.classList.remove('open'); }); });
+})();
+</script>
+</body>
+</html>
