@@ -39,9 +39,11 @@
     },
     {
       "keyword": "4k iptv nederland",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/4k-iptv-nederland/",
+      "type": "spoke",
+      "trunk": "/iptv-kanalen-nederland/",
+      "posted_date": "2026-08-01"
     },
     {
       "keyword": "amiko iptv",
@@ -51,9 +53,11 @@
     },
     {
       "keyword": "amiko iptv box",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/amiko-iptv-box/",
+      "type": "spoke",
+      "trunk": "/iptv-boxen-nederland/",
+      "posted_date": "2026-08-01"
     },
     {
       "keyword": "android box iptv",
@@ -63,9 +67,11 @@
     },
     {
       "keyword": "app iptv android",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/app-iptv-android/",
+      "type": "spoke",
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-08-01"
     },
     {
       "keyword": "application iptv android",
@@ -87,9 +93,11 @@
     },
     {
       "keyword": "beste iptv aanbieder nederland",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/beste-iptv-aanbieder-nederland/",
+      "type": "spoke",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-08-01"
     },
     {
       "keyword": "beste iptv aanbieders 2026 nederland",
@@ -105,9 +113,11 @@
     },
     {
       "keyword": "beste iptv abonnement nederland",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/beste-iptv-abonnement-nederland/",
+      "type": "spoke",
+      "trunk": "/iptv-kopen-nederland/",
+      "posted_date": "2026-08-01"
     },
     {
       "keyword": "beste iptv app",
@@ -267,9 +277,11 @@
     },
     {
       "keyword": "iptv abonnement nederland legaal",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/iptv-abonnement-nederland-legaal/",
+      "type": "spoke",
+      "trunk": "/legale-iptv-nederland/",
+      "posted_date": "2026-08-01"
     },
     {
       "keyword": "iptv abonnement rotterdam",
