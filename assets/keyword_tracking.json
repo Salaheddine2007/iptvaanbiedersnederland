@@ -31,9 +31,11 @@
   "keywords": [
     {
       "keyword": "4k iptv",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/4k-iptv/",
+      "type": "spoke",
+      "posted_date": "2026-08-01",
+      "trunk": "/iptv-boxen-nederland/"
     },
     {
       "keyword": "4k iptv nederland",
