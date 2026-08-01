@@ -341,7 +341,8 @@ a,button{transition:background-color .25s ease,color .25s ease,border-color .25s
 .brands-track{display:flex;align-items:center;gap:3rem;animation:scroll-brands 30s linear infinite;width:max-content}
 .brands-track:hover{animation-play-state:paused}
 @keyframes scroll-brands{from{transform:translateX(0)}to{transform:translateX(-50%)}}
-.brand-img{height:28px;width:auto;opacity:0.45;filter:grayscale(1);transition:opacity .3s ease,filter .3s ease;flex-shrink:0}
+.brand-img{height:44px;width:auto;opacity:0.55;filter:grayscale(1);transition:opacity .3s ease,filter .3s ease;flex-shrink:0}
+@media(max-width:640px){.brand-img{height:34px}}
 .brand-img:hover{opacity:0.9;filter:grayscale(0)}
 
 /* ─── MOVIES/VOD SLIDER ─── */
