@@ -1,6 +1,6 @@
 {
   "site": "iptvaanbiedersnederland.nl",
-  "main_keyword": "iptv aanbieders nederland",
+  "main_keyword": "iptv nederland",
   "source": "Recovered from Wayback Machine / CDX API on 2026-07-31 after original WordPress site's hosting was wiped. Represents the legacy site's ~152 page slugs.",
   "trunks": [
     {
@@ -940,6 +940,145 @@
       "status": "pending",
       "url": null,
       "type": "spoke"
+    },
+    {
+      "keyword": "iptv nederland",
+      "status": "published",
+      "url": "/",
+      "type": "homepage"
+    },
+    {
+      "keyword": "iptv kopen",
+      "status": "published",
+      "url": "/#prijzen",
+      "type": "homepage"
+    },
+    {
+      "keyword": "iptv abonnement",
+      "status": "published",
+      "url": "/#prijzen",
+      "type": "homepage"
+    },
+    {
+      "keyword": "nederland iptv kopen",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "iptv abonnement kopen",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "iptv abonnement nederland",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "goedkope iptv nederland",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "iptv nederland aanbieding",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "iptv abonnement prijzen",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "iptv abonnement prijzen nederland",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "iptv nederland gratis proberen",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "gratis iptv proberen nederland",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "beste iptv nederland 2026",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "iptv abonnement vergelijken",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "iptv nederland review 2026",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "iptv abonnement maandelijks opzegbaar",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "iptv abonnement zonder contract",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "iptv nederland ervaringen 2026",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "iptv abonnement 12 maanden",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "iptv abonnement 1 maand",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "goedkoop iptv abonnement nederland",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
+    },
+    {
+      "keyword": "iptv nederland bestellen",
+      "status": "pending",
+      "url": null,
+      "type": "spoke"
     }
-  ]
+  ],
+  "secondary_main_keywords": [
+    "nederland iptv",
+    "iptv kopen",
+    "iptv abonnement"
+  ],
+  "previous_main_keyword": "iptv aanbieders nederland",
+  "homepage_url": "/"
 }
