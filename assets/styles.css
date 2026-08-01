@@ -333,3 +333,39 @@ a,button{transition:background-color .25s ease,color .25s ease,border-color .25s
 .apps-cta{display:flex;align-items:center;justify-content:center;gap:0.6rem;background:linear-gradient(90deg,var(--gold),var(--gold-hover));color:#fff;font-weight:700;padding:1.1rem 2.2rem;border-radius:12px;text-decoration:none;font-size:1.05rem;max-width:800px;margin:0 auto;transition:transform .2s ease,box-shadow .25s ease}
 .apps-cta:hover{transform:translateY(-2px);box-shadow:0 12px 28px rgba(2,132,199,0.4)}
 @media(max-width:640px){.apps-row{gap:1.6rem 2rem}}
+
+/* ─── BRANDS / CHANNEL LOGOS MARQUEE ─── */
+.brands{padding:2rem 0;border-top:1px solid var(--border);border-bottom:1px solid var(--border);background:var(--bg-card-2);overflow:hidden}
+.brands-label{text-align:center;font-size:0.78rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;color:var(--text-muted-2);margin-bottom:1.25rem}
+.brands-track-wrap{overflow:hidden;-webkit-mask-image:linear-gradient(90deg,transparent,black 10%,black 90%,transparent);mask-image:linear-gradient(90deg,transparent,black 10%,black 90%,transparent)}
+.brands-track{display:flex;align-items:center;gap:3rem;animation:scroll-brands 30s linear infinite;width:max-content}
+.brands-track:hover{animation-play-state:paused}
+@keyframes scroll-brands{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.brand-img{height:28px;width:auto;opacity:0.45;filter:grayscale(1);transition:opacity .3s ease,filter .3s ease;flex-shrink:0}
+.brand-img:hover{opacity:0.9;filter:grayscale(0)}
+
+/* ─── MOVIES/VOD SLIDER ─── */
+.movies-section{padding:4rem 0 5rem}
+.slider-outer{position:relative;margin-top:2.5rem}
+.slider-viewport{width:100%;overflow:hidden;border-radius:var(--radius-lg)}
+.slider-track{display:flex;gap:1rem;transition:transform .6s cubic-bezier(.16,1,.3,1)}
+.slide{flex:0 0 calc((100% - 32px) / 3);aspect-ratio:2656/1500;border-radius:var(--radius-md);overflow:hidden;position:relative;background:var(--bg-card-2);box-shadow:0 8px 24px rgba(2,132,199,0.1)}
+.slide img{width:100%;height:100%;object-fit:cover;object-position:center;display:block;transition:transform .5s ease}
+.slide:hover img{transform:scale(1.05)}
+.slide-overlay{position:absolute;inset:0;background:linear-gradient(to top,rgba(12,47,77,0.65) 0%,transparent 55%);display:flex;align-items:flex-end;padding:0.9rem 1rem;opacity:0;transition:opacity .3s ease}
+.slide:hover .slide-overlay{opacity:1}
+.slide-badge{display:inline-flex;align-items:center;gap:0.4rem;background:rgba(255,255,255,0.18);border:1px solid rgba(255,255,255,0.35);border-radius:100px;padding:0.32rem 0.9rem;font-size:0.78rem;font-weight:700;color:#fff}
+.slider-btn{position:absolute;top:50%;transform:translateY(-50%);width:44px;height:44px;border-radius:50%;background:#fff;border:1px solid var(--border);box-shadow:0 8px 20px rgba(2,132,199,0.15);font-size:1rem;color:var(--text);cursor:pointer;z-index:10;transition:all .25s ease;display:flex;align-items:center;justify-content:center}
+.slider-btn:hover{background:var(--gold);color:#fff;border-color:var(--gold);transform:translateY(-50%) scale(1.08)}
+.slider-prev{left:-18px}
+.slider-next{right:-18px}
+.slider-dots{display:flex;align-items:center;justify-content:center;gap:0.5rem;margin-top:1.25rem}
+.slider-dot{width:8px;height:8px;border-radius:100px;background:rgba(2,132,199,0.18);border:none;cursor:pointer;transition:all .3s ease;padding:0}
+.slider-dot.active{background:var(--gold);width:24px}
+@media(max-width:640px){
+  .slide{flex:0 0 100%}
+  .slider-btn{width:38px;height:38px;font-size:0.9rem}
+  .slider-prev{left:8px}
+  .slider-next{right:8px}
+  .slide-overlay{padding:1rem 1.25rem}
+}
