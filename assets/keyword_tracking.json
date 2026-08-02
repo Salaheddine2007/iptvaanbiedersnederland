@@ -47,9 +47,11 @@
     },
     {
       "keyword": "amiko iptv",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/amiko-iptv/",
+      "type": "spoke",
+      "trunk": "/iptv-boxen-nederland/",
+      "posted_date": "2026-08-02"
     },
     {
       "keyword": "amiko iptv box",
