@@ -63,9 +63,11 @@
     },
     {
       "keyword": "android box iptv",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/android-box-iptv/",
+      "type": "spoke",
+      "posted_date": "2026-08-03",
+      "trunk": "/iptv-boxen-nederland/"
     },
     {
       "keyword": "app iptv android",
