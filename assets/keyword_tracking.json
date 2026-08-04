@@ -79,9 +79,11 @@
     },
     {
       "keyword": "application iptv android",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/application-iptv-android/",
+      "type": "spoke",
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-08-04"
     },
     {
       "keyword": "best iptv nederland",
