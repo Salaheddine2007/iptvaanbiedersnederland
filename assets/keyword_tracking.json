@@ -87,9 +87,11 @@
     },
     {
       "keyword": "best iptv nederland",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/best-iptv-nederland/",
+      "type": "spoke",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-08-05"
     },
     {
       "keyword": "best iptv provider nederland",
