@@ -135,9 +135,11 @@
     },
     {
       "keyword": "beste iptv app",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/beste-iptv-app/",
+      "type": "spoke",
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-08-09"
     },
     {
       "keyword": "beste iptv kastje",
