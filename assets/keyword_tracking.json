@@ -175,9 +175,11 @@
     },
     {
       "keyword": "beste iptv van nederland",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/beste-iptv-van-nederland/",
+      "type": "spoke",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-08-14"
     },
     {
       "keyword": "beste kodi build met nederlandse iptv",
