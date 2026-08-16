@@ -191,9 +191,11 @@
     },
     {
       "keyword": "beste nederlandse iptv",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/beste-nederlandse-iptv/",
+      "type": "spoke",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-08-16"
     },
     {
       "keyword": "beste nederlandse iptv playlist",
