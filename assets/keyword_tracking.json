@@ -199,9 +199,11 @@
     },
     {
       "keyword": "beste nederlandse iptv playlist",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/beste-nederlandse-iptv-playlist/",
+      "type": "spoke",
+      "trunk": "/iptv-kanalen-nederland/",
+      "posted_date": "2026-08-17"
     },
     {
       "keyword": "box android iptv",
