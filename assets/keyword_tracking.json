@@ -207,9 +207,11 @@
     },
     {
       "keyword": "box android iptv",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/box-android-iptv/",
+      "type": "spoke",
+      "posted_date": "2026-08-18",
+      "trunk": "/iptv-boxen-nederland/"
     },
     {
       "keyword": "chromecast iptv",
