@@ -21,7 +21,11 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png">
 <link rel="icon" type="image/png" sizes="192x192" href="/assets/favicon-192.png">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
-<link rel="stylesheet" href="/assets/styles.css?v=20260801f">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="/assets/styles.css?v=20260819a">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@1,600&display=swap" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@1,600&display=swap"></noscript>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -170,39 +174,39 @@
     <div class="slider-viewport" id="filmSlider" role="region" aria-label="Films en series slider">
       <div class="slider-track" id="sliderTrack">
         <div class="slide" role="img" aria-label="IPTV Nederland films in 4K">
-          <img src="/assets/aflam/Artboard-1.webp" alt="IPTV Nederland films in 4K – premium streaming" width="900" height="508" fetchpriority="high" />
+          <img src="/assets/aflam/Artboard-1.webp" alt="IPTV Nederland films in 4K – premium streaming" width="760" height="429" fetchpriority="high" />
           <div class="slide-overlay"><div class="slide-badge">▶ Beschikbaar in 4K</div></div>
         </div>
         <div class="slide" role="img" aria-label="Series streamen via nederland iptv">
-          <img src="/assets/aflam/Artboard-1-1.webp" alt="Series streamen via nederland iptv abonnement" width="1200" height="677" loading="lazy" />
+          <img src="/assets/aflam/Artboard-1-1.webp" alt="Series streamen via nederland iptv abonnement" width="760" height="429" loading="lazy" />
           <div class="slide-overlay"><div class="slide-badge">▶ Beschikbaar in 4K</div></div>
         </div>
         <div class="slide" role="img" aria-label="IPTV kanalen Nederland live">
-          <img src="/assets/aflam/Artboard-2.webp" alt="IPTV kanalen Nederland live in 4K" width="1200" height="677" loading="lazy" />
+          <img src="/assets/aflam/Artboard-2.webp" alt="IPTV kanalen Nederland live in 4K" width="760" height="429" loading="lazy" />
           <div class="slide-overlay"><div class="slide-badge">▶ Beschikbaar in 4K</div></div>
         </div>
         <div class="slide" role="img" aria-label="VOD bibliotheek iptv abonnement">
-          <img src="/assets/aflam/Artboard-4.webp" alt="VOD bibliotheek bij iptv abonnement – films online" width="1200" height="677" loading="lazy" />
+          <img src="/assets/aflam/Artboard-4.webp" alt="VOD bibliotheek bij iptv abonnement – films online" width="760" height="429" loading="lazy" />
           <div class="slide-overlay"><div class="slide-badge">▶ Beschikbaar in 4K</div></div>
         </div>
         <div class="slide" role="img" aria-label="Series kijken iptv kopen">
-          <img src="/assets/aflam/Artboard-21.webp" alt="Series kijken na iptv kopen – Nederlands abonnement" width="900" height="508" loading="lazy" />
+          <img src="/assets/aflam/Artboard-21.webp" alt="Series kijken na iptv kopen – Nederlands abonnement" width="760" height="429" loading="lazy" />
           <div class="slide-overlay"><div class="slide-badge">▶ Beschikbaar in 4K</div></div>
         </div>
         <div class="slide" role="img" aria-label="Live sport iptv nederland">
-          <img src="/assets/aflam/Artboard-25.webp" alt="Live sport bij iptv nederland – wedstrijden rechtstreeks" width="1200" height="677" loading="lazy" />
+          <img src="/assets/aflam/Artboard-25.webp" alt="Live sport bij iptv nederland – wedstrijden rechtstreeks" width="760" height="429" loading="lazy" />
           <div class="slide-overlay"><div class="slide-badge">🔴 Live Sport</div></div>
         </div>
         <div class="slide" role="img" aria-label="Films in HD beste iptv">
-          <img src="/assets/aflam/Artboard-26.webp" alt="Films in HD – beste iptv beeldkwaliteit" width="900" height="508" loading="lazy" />
+          <img src="/assets/aflam/Artboard-26.webp" alt="Films in HD – beste iptv beeldkwaliteit" width="760" height="429" loading="lazy" />
           <div class="slide-overlay"><div class="slide-badge">▶ Beschikbaar in 4K</div></div>
         </div>
         <div class="slide" role="img" aria-label="IPTV Nederland smart tv installatie">
-          <img src="/assets/aflam/Artboard-27.webp" alt="IPTV Nederland op smart tv – eenvoudige installatie" width="900" height="508" loading="lazy" />
+          <img src="/assets/aflam/Artboard-27.webp" alt="IPTV Nederland op smart tv – eenvoudige installatie" width="760" height="429" loading="lazy" />
           <div class="slide-overlay"><div class="slide-badge">▶ Beschikbaar in 4K</div></div>
         </div>
         <div class="slide" role="img" aria-label="IPTV abonnement beste prijs">
-          <img src="/assets/aflam/Artboard-30.webp" alt="IPTV abonnement Nederland – beste prijs 2026" width="900" height="508" loading="lazy" />
+          <img src="/assets/aflam/Artboard-30.webp" alt="IPTV abonnement Nederland – beste prijs 2026" width="760" height="429" loading="lazy" />
           <div class="slide-overlay"><div class="slide-badge">▶ Beschikbaar in 4K</div></div>
         </div>
       </div>
@@ -711,8 +715,7 @@ function setDevices(n, btn){
     vp.addEventListener('mouseenter', stopAuto);
     vp.addEventListener('mouseleave', startAuto);
 
-    init();
-    startAuto();
+    requestAnimationFrame(function(){ init(); startAuto(); });
   })();
 
   document.querySelectorAll('.epg-fill').forEach(function(el){
