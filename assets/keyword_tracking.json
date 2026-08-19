@@ -215,9 +215,11 @@
     },
     {
       "keyword": "chromecast iptv",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/chromecast-iptv/",
+      "type": "spoke",
+      "trunk": "/iptv-boxen-nederland/",
+      "posted_date": "2026-08-19"
     },
     {
       "keyword": "cobra iptv",
