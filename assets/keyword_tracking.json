@@ -120,10 +120,11 @@
     {
       "keyword": "beste iptv aanbieders nederland 2026",
       "status": "published",
-      "url": "/blog/beste-iptv-aanbieders-nederland-2026/",
+      "url": "/blog/beste-iptv-aanbieders-2026-nederland/",
       "type": "spoke",
       "trunk": "/iptv-aanbieders-nederland/",
-      "posted_date": "2026-08-08"
+      "posted_date": "2026-08-08",
+      "merged_into": "/blog/beste-iptv-aanbieders-2026-nederland/"
     },
     {
       "keyword": "beste iptv abonnement nederland",
@@ -208,10 +209,11 @@
     {
       "keyword": "box android iptv",
       "status": "published",
-      "url": "/blog/box-android-iptv/",
+      "url": "/blog/android-box-iptv/",
       "type": "spoke",
       "posted_date": "2026-08-18",
-      "trunk": "/iptv-boxen-nederland/"
+      "trunk": "/iptv-boxen-nederland/",
+      "merged_into": "/blog/android-box-iptv/"
     },
     {
       "keyword": "chromecast iptv",
