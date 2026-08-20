@@ -223,9 +223,11 @@
     },
     {
       "keyword": "cobra iptv",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/cobra-iptv/",
+      "type": "spoke",
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-08-20"
     },
     {
       "keyword": "dev iptv pro",
