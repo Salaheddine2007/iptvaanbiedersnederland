@@ -233,9 +233,11 @@
     },
     {
       "keyword": "dev iptv pro",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/dev-iptv-pro/",
+      "type": "spoke",
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-08-21"
     },
     {
       "keyword": "discover the best iptv ireland provider",
