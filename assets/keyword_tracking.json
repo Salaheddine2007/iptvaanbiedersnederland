@@ -241,9 +241,11 @@
     },
     {
       "keyword": "discover the best iptv ireland provider",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/discover-the-best-iptv-ireland-provider/",
+      "type": "spoke",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-08-22"
     },
     {
       "keyword": "dreambox iptv",
