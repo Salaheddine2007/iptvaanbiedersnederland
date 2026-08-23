@@ -249,9 +249,11 @@
     },
     {
       "keyword": "dreambox iptv",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/dreambox-iptv/",
+      "type": "spoke",
+      "trunk": "/iptv-boxen-nederland/",
+      "posted_date": "2026-08-23"
     },
     {
       "keyword": "flix iptv upload list",
