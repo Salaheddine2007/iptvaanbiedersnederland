@@ -257,9 +257,11 @@
     },
     {
       "keyword": "flix iptv upload list",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/flix-iptv-upload-list/",
+      "type": "spoke",
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-08-24"
     },
     {
       "keyword": "formuler iptv",
