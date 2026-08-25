@@ -265,9 +265,11 @@
     },
     {
       "keyword": "formuler iptv",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/formuler-iptv/",
+      "type": "spoke",
+      "trunk": "/iptv-boxen-nederland/",
+      "posted_date": "2026-08-25"
     },
     {
       "keyword": "goede iptv aanbieder nederland",
