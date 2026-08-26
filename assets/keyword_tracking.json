@@ -273,9 +273,11 @@
     },
     {
       "keyword": "goede iptv aanbieder nederland",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/goede-iptv-aanbieder-nederland/",
+      "type": "spoke",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-08-26"
     },
     {
       "keyword": "hdmi iptv stick",
