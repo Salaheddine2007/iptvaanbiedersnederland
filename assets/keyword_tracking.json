@@ -281,9 +281,11 @@
     },
     {
       "keyword": "hdmi iptv stick",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/hdmi-iptv-stick/",
+      "type": "spoke",
+      "trunk": "/iptv-boxen-nederland/",
+      "posted_date": "2026-08-27"
     },
     {
       "keyword": "honey bee iptv",
