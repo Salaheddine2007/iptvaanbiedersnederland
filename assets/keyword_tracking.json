@@ -289,9 +289,11 @@
     },
     {
       "keyword": "honey bee iptv",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/honey-bee-iptv/",
+      "type": "spoke",
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-08-28"
     },
     {
       "keyword": "honeybee iptv",
