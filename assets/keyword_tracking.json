@@ -40,7 +40,7 @@
     {
       "keyword": "4k iptv nederland",
       "status": "published",
-      "url": "/blog/4k-iptv-nederland/",
+      "url": "/blog/4k-iptv/",
       "type": "spoke",
       "trunk": "/iptv-kanalen-nederland/",
       "posted_date": "2026-08-01"
@@ -56,7 +56,7 @@
     {
       "keyword": "amiko iptv box",
       "status": "published",
-      "url": "/blog/amiko-iptv-box/",
+      "url": "/blog/amiko-iptv/",
       "type": "spoke",
       "trunk": "/iptv-boxen-nederland/",
       "posted_date": "2026-08-01"
@@ -80,7 +80,7 @@
     {
       "keyword": "application iptv android",
       "status": "published",
-      "url": "/blog/application-iptv-android/",
+      "url": "/blog/app-iptv-android/",
       "type": "spoke",
       "trunk": "/iptv-kodi-nederland/",
       "posted_date": "2026-08-04"
@@ -88,7 +88,7 @@
     {
       "keyword": "best iptv nederland",
       "status": "published",
-      "url": "/blog/best-iptv-nederland/",
+      "url": "/iptv-aanbieders-nederland/",
       "type": "spoke",
       "trunk": "/iptv-aanbieders-nederland/",
       "posted_date": "2026-08-05"
@@ -96,7 +96,7 @@
     {
       "keyword": "best iptv provider nederland",
       "status": "published",
-      "url": "/blog/best-iptv-provider-nederland/",
+      "url": "/iptv-aanbieders-nederland/",
       "type": "spoke",
       "posted_date": "2026-08-06",
       "trunk": "/iptv-aanbieders-nederland/"
@@ -104,7 +104,7 @@
     {
       "keyword": "beste iptv aanbieder nederland",
       "status": "published",
-      "url": "/blog/beste-iptv-aanbieder-nederland/",
+      "url": "/iptv-aanbieders-nederland/",
       "type": "spoke",
       "trunk": "/iptv-aanbieders-nederland/",
       "posted_date": "2026-08-01"
@@ -112,7 +112,7 @@
     {
       "keyword": "beste iptv aanbieders 2026 nederland",
       "status": "published",
-      "url": "/blog/beste-iptv-aanbieders-2026-nederland/",
+      "url": "/iptv-aanbieders-nederland/",
       "type": "spoke",
       "trunk": "/iptv-aanbieders-nederland/",
       "posted_date": "2026-08-07"
@@ -120,16 +120,16 @@
     {
       "keyword": "beste iptv aanbieders nederland 2026",
       "status": "published",
-      "url": "/blog/beste-iptv-aanbieders-2026-nederland/",
+      "url": "/iptv-aanbieders-nederland/",
       "type": "spoke",
       "trunk": "/iptv-aanbieders-nederland/",
       "posted_date": "2026-08-08",
-      "merged_into": "/blog/beste-iptv-aanbieders-2026-nederland/"
+      "merged_into": "/iptv-aanbieders-nederland/"
     },
     {
       "keyword": "beste iptv abonnement nederland",
       "status": "published",
-      "url": "/blog/beste-iptv-abonnement-nederland/",
+      "url": "/iptv-kopen-nederland/",
       "type": "spoke",
       "trunk": "/iptv-kopen-nederland/",
       "posted_date": "2026-08-01"
@@ -145,7 +145,7 @@
     {
       "keyword": "beste iptv kastje",
       "status": "published",
-      "url": "/blog/beste-iptv-kastje/",
+      "url": "/iptv-boxen-nederland/",
       "type": "spoke",
       "trunk": "/iptv-boxen-nederland/",
       "posted_date": "2026-08-10"
@@ -153,7 +153,7 @@
     {
       "keyword": "beste iptv kodi nederlands",
       "status": "published",
-      "url": "/blog/beste-iptv-kodi-nederlands/",
+      "url": "/iptv-kodi-nederland/",
       "type": "spoke",
       "posted_date": "2026-08-11",
       "trunk": "/iptv-kodi-nederland/"
@@ -169,7 +169,7 @@
     {
       "keyword": "beste iptv player",
       "status": "published",
-      "url": "/blog/beste-iptv-player/",
+      "url": "/blog/beste-iptv-app/",
       "type": "spoke",
       "trunk": "/iptv-kodi-nederland/",
       "posted_date": "2026-08-13"
@@ -177,7 +177,7 @@
     {
       "keyword": "beste iptv van nederland",
       "status": "published",
-      "url": "/blog/beste-iptv-van-nederland/",
+      "url": "/iptv-aanbieders-nederland/",
       "type": "spoke",
       "trunk": "/iptv-aanbieders-nederland/",
       "posted_date": "2026-08-14"
@@ -193,7 +193,7 @@
     {
       "keyword": "beste nederlandse iptv",
       "status": "published",
-      "url": "/blog/beste-nederlandse-iptv/",
+      "url": "/iptv-aanbieders-nederland/",
       "type": "spoke",
       "trunk": "/iptv-aanbieders-nederland/",
       "posted_date": "2026-08-16"
@@ -274,7 +274,7 @@
     {
       "keyword": "goede iptv aanbieder nederland",
       "status": "published",
-      "url": "/blog/goede-iptv-aanbieder-nederland/",
+      "url": "/iptv-aanbieders-nederland/",
       "type": "spoke",
       "trunk": "/iptv-aanbieders-nederland/",
       "posted_date": "2026-08-26"
@@ -332,7 +332,7 @@
     {
       "keyword": "iptv abonnement nederland legaal",
       "status": "published",
-      "url": "/blog/iptv-abonnement-nederland-legaal/",
+      "url": "/legale-iptv-nederland/",
       "type": "spoke",
       "trunk": "/legale-iptv-nederland/",
       "posted_date": "2026-08-01"
