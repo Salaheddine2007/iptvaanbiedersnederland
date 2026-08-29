@@ -297,15 +297,20 @@
     },
     {
       "keyword": "honeybee iptv",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/honey-bee-iptv/",
+      "type": "spoke",
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-08-29",
+      "merged_into": "/blog/honey-bee-iptv/"
     },
     {
       "keyword": "ibo iptv",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/ibo-iptv/",
+      "type": "spoke",
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-08-29"
     },
     {
       "keyword": "iptv aanbieder nederland",
