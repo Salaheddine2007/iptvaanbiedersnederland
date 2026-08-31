@@ -334,9 +334,11 @@
     },
     {
       "keyword": "iptv aanbieders vergelijken",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/iptv-aanbieders-vergelijken/",
+      "type": "spoke",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-08-31"
     },
     {
       "keyword": "iptv abonnement nederland legaal",
