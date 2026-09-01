@@ -350,9 +350,11 @@
     },
     {
       "keyword": "iptv abonnement rotterdam",
-      "status": "pending",
-      "url": null,
-      "type": "spoke"
+      "status": "published",
+      "url": "/blog/iptv-abonnement-rotterdam/",
+      "type": "spoke",
+      "trunk": "/iptv-kopen-nederland/",
+      "posted_date": "2026-09-01"
     },
     {
       "keyword": "iptv amiko",
