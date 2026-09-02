@@ -358,10 +358,11 @@
     },
     {
       "keyword": "iptv boter",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-boter/",
       "type": "spoke",
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-09-02"
     },
     {
       "keyword": "iptv boxar i sverige",
