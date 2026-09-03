@@ -425,10 +425,11 @@
     },
     {
       "keyword": "iptv kodi nederlandse zenders",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-kodi-nederlandse-zenders/",
       "type": "spoke",
-      "trunk": "/iptv-kodi-nederland/"
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-09-03"
     },
     {
       "keyword": "iptv kopen nederland",
