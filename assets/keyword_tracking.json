@@ -379,10 +379,11 @@
     },
     {
       "keyword": "iptv codes nederland",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-codes-nederland/",
       "type": "spoke",
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-09-03"
     },
     {
       "keyword": "iptv dev",
