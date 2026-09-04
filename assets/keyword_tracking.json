@@ -366,10 +366,11 @@
     },
     {
       "keyword": "iptv boxar i sverige",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-boxar-i-sverige/",
       "type": "spoke",
-      "trunk": "/iptv-boxen-nederland/"
+      "trunk": "/iptv-boxen-nederland/",
+      "posted_date": "2026-09-04"
     },
     {
       "keyword": "iptv boxen",
