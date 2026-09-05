@@ -396,10 +396,11 @@
     },
     {
       "keyword": "iptv forum nederland",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-forum-nederland/",
       "type": "spoke",
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-09-05"
     },
     {
       "keyword": "iptv kanalen nederland",
