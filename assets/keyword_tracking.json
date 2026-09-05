@@ -442,10 +442,11 @@
     },
     {
       "keyword": "iptv links nederland",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-links-nederland/",
       "type": "spoke",
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-09-05"
     },
     {
       "keyword": "iptv list nederland",
