@@ -458,10 +458,11 @@
     },
     {
       "keyword": "iptv m3u lijsten nederland",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-m3u-lijsten-nederland/",
       "type": "spoke",
-      "trunk": "/iptv-kodi-nederland/"
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-09-06"
     },
     {
       "keyword": "iptv m3u nederland",
