@@ -474,10 +474,11 @@
     },
     {
       "keyword": "iptv media",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-media/",
       "type": "spoke",
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-09-07"
     },
     {
       "keyword": "iptv nederland 2026",
