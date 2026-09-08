@@ -490,10 +490,11 @@
     },
     {
       "keyword": "iptv nederland abonnement",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-nederland-abonnement/",
       "type": "spoke",
-      "trunk": "/iptv-kopen-nederland/"
+      "trunk": "/iptv-kopen-nederland/",
+      "posted_date": "2026-09-08"
     },
     {
       "keyword": "iptv nederland app",
