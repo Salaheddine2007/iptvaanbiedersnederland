@@ -498,10 +498,11 @@
     },
     {
       "keyword": "iptv nederland app",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-nederland-app/",
       "type": "spoke",
-      "trunk": "/iptv-kodi-nederland/"
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-09-09"
     },
     {
       "keyword": "iptv nederland betrouwbaar",
