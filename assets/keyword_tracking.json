@@ -506,10 +506,11 @@
     },
     {
       "keyword": "iptv nederland betrouwbaar",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-nederland-betrouwbaar/",
       "type": "spoke",
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-09-09"
     },
     {
       "keyword": "iptv nederland ervaringen",
