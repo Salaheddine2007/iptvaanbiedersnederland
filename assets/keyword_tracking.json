@@ -514,10 +514,11 @@
     },
     {
       "keyword": "iptv nederland ervaringen",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-nederland-ervaringen/",
       "type": "spoke",
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-09-10"
     },
     {
       "keyword": "iptv nederland forum 2026",
