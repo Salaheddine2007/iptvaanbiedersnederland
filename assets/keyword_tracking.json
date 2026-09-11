@@ -536,10 +536,11 @@
     },
     {
       "keyword": "iptv nederlandse kanalen",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-nederlandse-kanalen-lijst/",
       "type": "spoke",
-      "trunk": "/iptv-kanalen-nederland/"
+      "trunk": "/iptv-kanalen-nederland/",
+      "posted_date": "2026-09-11"
     },
     {
       "keyword": "iptv nederlandse ondertiteling",
