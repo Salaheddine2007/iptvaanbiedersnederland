@@ -544,10 +544,11 @@
     },
     {
       "keyword": "iptv nederlandse ondertiteling",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-nederlandse-ondertiteling/",
       "type": "spoke",
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-09-11"
     },
     {
       "keyword": "iptv nederlandse zenders kodi",
