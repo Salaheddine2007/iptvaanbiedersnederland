@@ -552,10 +552,11 @@
     },
     {
       "keyword": "iptv nederlandse zenders kodi",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-nederlandse-zenders-kodi/",
       "type": "spoke",
-      "trunk": "/iptv-kodi-nederland/"
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-09-12"
     },
     {
       "keyword": "iptv nieuws en gidsen",
