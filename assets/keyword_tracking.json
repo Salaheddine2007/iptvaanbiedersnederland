@@ -592,10 +592,11 @@
     },
     {
       "keyword": "iptv playlist nederland",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-playlist-nederland/",
       "type": "spoke",
-      "trunk": "/iptv-kanalen-nederland/"
+      "trunk": "/iptv-kanalen-nederland/",
+      "posted_date": "2026-09-14"
     },
     {
       "keyword": "iptv po lg tv",
