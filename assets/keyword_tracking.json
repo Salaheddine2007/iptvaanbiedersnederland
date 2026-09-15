@@ -600,10 +600,11 @@
     },
     {
       "keyword": "iptv po lg tv",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-op-lg-tv/",
       "type": "spoke",
-      "trunk": "/iptv-boxen-nederland/"
+      "trunk": "/iptv-boxen-nederland/",
+      "posted_date": "2026-09-15"
     },
     {
       "keyword": "iptv provider nederland",
