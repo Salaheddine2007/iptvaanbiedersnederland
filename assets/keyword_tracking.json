@@ -632,10 +632,11 @@
     },
     {
       "keyword": "iptv smarters nederlands",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-smarters-nederlands/",
       "type": "spoke",
-      "trunk": "/iptv-kodi-nederland/"
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-09-17"
     },
     {
       "keyword": "iptv smarters pro nederlands",
