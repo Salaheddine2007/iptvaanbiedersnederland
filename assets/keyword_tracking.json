@@ -664,10 +664,11 @@
     },
     {
       "keyword": "iptv vlc",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-vlc/",
       "type": "spoke",
-      "trunk": "/iptv-kodi-nederland/"
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-09-19"
     },
     {
       "keyword": "ireland iptv",
