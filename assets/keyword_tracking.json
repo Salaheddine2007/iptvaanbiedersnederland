@@ -698,10 +698,11 @@
     },
     {
       "keyword": "legale iptv nederland",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/legale-iptv-nederland/",
       "type": "spoke",
-      "trunk": "/legale-iptv-nederland/"
+      "trunk": "/legale-iptv-nederland/",
+      "posted_date": "2026-09-20"
     },
     {
       "keyword": "multi iptv",
