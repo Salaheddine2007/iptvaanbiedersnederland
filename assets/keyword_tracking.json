@@ -672,10 +672,11 @@
     },
     {
       "keyword": "ireland iptv",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/ireland-iptv/",
       "type": "spoke",
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-09-20"
     },
     {
       "keyword": "is iptv illegaal in nederland",
