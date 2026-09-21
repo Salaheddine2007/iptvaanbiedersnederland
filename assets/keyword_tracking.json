@@ -714,10 +714,11 @@
     },
     {
       "keyword": "nederland iptv m3u",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/nederland-iptv-m3u/",
       "type": "spoke",
-      "trunk": "/iptv-kodi-nederland/"
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-09-21"
     },
     {
       "keyword": "nederlands iptv kodi",
