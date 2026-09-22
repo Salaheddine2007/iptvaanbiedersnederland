@@ -722,10 +722,11 @@
     },
     {
       "keyword": "nederlands iptv kodi",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/nederlands-iptv-kodi/",
       "type": "spoke",
-      "trunk": "/iptv-kodi-nederland/"
+      "trunk": "/iptv-kodi-nederland/",
+      "posted_date": "2026-09-22"
     },
     {
       "keyword": "nederlandse iptv aanbieder",
