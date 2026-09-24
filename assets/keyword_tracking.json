@@ -762,10 +762,11 @@
     },
     {
       "keyword": "nederlandse zenders iptv",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/nederlandse-zenders-iptv/",
       "type": "spoke",
-      "trunk": "/iptv-kanalen-nederland/"
+      "trunk": "/iptv-kanalen-nederland/",
+      "posted_date": "2026-09-24"
     },
     {
       "keyword": "netherlandse iptv",
