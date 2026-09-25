@@ -770,10 +770,11 @@
     },
     {
       "keyword": "netherlandse iptv",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/netherlandse-iptv/",
       "type": "spoke",
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-09-25"
     },
     {
       "keyword": "platinium iptv",
