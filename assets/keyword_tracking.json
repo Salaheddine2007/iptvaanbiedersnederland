@@ -794,10 +794,11 @@
     },
     {
       "keyword": "tv box met iptv",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/tv-box-met-iptv/",
       "type": "spoke",
-      "trunk": "/iptv-boxen-nederland/"
+      "trunk": "/iptv-boxen-nederland/",
+      "posted_date": "2026-09-27"
     },
     {
       "keyword": "wat is de beste iptv voor nederland 2",
