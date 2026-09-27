@@ -802,10 +802,11 @@
     },
     {
       "keyword": "wat is de beste iptv voor nederland 2",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/wat-is-de-beste-iptv-voor-nederland/",
       "type": "spoke",
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-09-27"
     },
     {
       "keyword": "iptv nederland",
@@ -42821,10 +42822,12 @@
     },
     {
       "keyword": "wat is de beste iptv voor nederland",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/wat-is-de-beste-iptv-voor-nederland/",
       "type": "spoke",
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-09-27",
+      "merged_into": "/blog/wat-is-de-beste-iptv-voor-nederland/"
     },
     {
       "keyword": "watch4k iptv",
