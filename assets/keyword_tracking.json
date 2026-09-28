@@ -836,10 +836,11 @@
     },
     {
       "keyword": "goedkope iptv nederland",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/goedkope-iptv-nederland/",
       "type": "spoke",
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "posted_date": "2026-09-28"
     },
     {
       "keyword": "iptv nederland aanbieding",
