@@ -860,10 +860,11 @@
     },
     {
       "keyword": "iptv abonnement prijzen nederland",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-abonnement-prijzen-nederland/",
       "type": "spoke",
-      "trunk": "/iptv-kopen-nederland/"
+      "trunk": "/iptv-kopen-nederland/",
+      "posted_date": "2026-09-30"
     },
     {
       "keyword": "iptv nederland gratis proberen",
