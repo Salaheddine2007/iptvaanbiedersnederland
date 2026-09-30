@@ -868,10 +868,11 @@
     },
     {
       "keyword": "iptv nederland gratis proberen",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-nederland-gratis-proberen/",
       "type": "spoke",
-      "trunk": "/iptv-kopen-nederland/"
+      "trunk": "/iptv-kopen-nederland/",
+      "posted_date": "2026-09-30"
     },
     {
       "keyword": "gratis iptv proberen nederland",
