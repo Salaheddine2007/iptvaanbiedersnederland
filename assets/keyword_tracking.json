@@ -892,10 +892,11 @@
     },
     {
       "keyword": "iptv abonnement vergelijken",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-abonnement-vergelijken/",
       "type": "spoke",
-      "trunk": "/iptv-kopen-nederland/"
+      "trunk": "/iptv-kopen-nederland/",
+      "posted_date": "2026-10-02"
     },
     {
       "keyword": "iptv nederland review 2026",
