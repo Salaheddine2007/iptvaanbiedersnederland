@@ -932,10 +932,11 @@
     },
     {
       "keyword": "iptv abonnement 12 maanden",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-abonnement-12-maanden/",
       "type": "spoke",
-      "trunk": "/iptv-kopen-nederland/"
+      "trunk": "/iptv-kopen-nederland/",
+      "posted_date": "2026-10-04"
     },
     {
       "keyword": "iptv abonnement 1 maand",
