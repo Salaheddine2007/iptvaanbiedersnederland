@@ -956,10 +956,11 @@
     },
     {
       "keyword": "iptv nederland bestellen",
-      "status": "pending",
-      "url": null,
+      "status": "published",
+      "url": "/blog/iptv-nederland-bestellen/",
       "type": "spoke",
-      "trunk": "/iptv-kopen-nederland/"
+      "trunk": "/iptv-kopen-nederland/",
+      "posted_date": "2026-10-06"
     },
     {
       "keyword": "beste iptv",
