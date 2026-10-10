@@ -1045,10 +1045,12 @@
       "keyword": "iptvclimb",
       "volume": 390,
       "kd": 14,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-10-10",
       "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/iptvclimb/",
+      "type": "spoke"
     },
     {
       "keyword": "diamand iptv",
