@@ -1056,10 +1056,12 @@
       "keyword": "diamand iptv",
       "volume": 320,
       "kd": 51,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-10-11",
       "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/diamand-iptv/",
+      "type": "spoke"
     },
     {
       "keyword": "televizija iptv",
