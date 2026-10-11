@@ -1067,10 +1067,11 @@
       "keyword": "televizija iptv",
       "volume": 260,
       "kd": 49,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-10-11",
       "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/televizija-iptv-nederland/"
     },
     {
       "keyword": "ip tv kastje",
