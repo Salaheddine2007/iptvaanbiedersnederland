@@ -1132,10 +1132,12 @@
       "keyword": "tv kastje met alle zenders en streamingdiensten",
       "volume": 70,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-10-14",
       "post_id": null,
-      "trunk": "/iptv-boxen-nederland/"
+      "trunk": "/iptv-boxen-nederland/",
+      "url": "/blog/tv-kastje-met-alle-zenders-en-streamingdiensten/",
+      "type": "spoke"
     },
     {
       "keyword": "omniiptv",
