@@ -1154,10 +1154,12 @@
       "keyword": "illegale tv zenders",
       "volume": 70,
       "kd": 37,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-10-15",
       "post_id": null,
-      "trunk": "/legale-iptv-nederland/"
+      "trunk": "/legale-iptv-nederland/",
+      "url": "/blog/illegale-tv-zenders/",
+      "type": "spoke"
     },
     {
       "keyword": "hot.iptv",
