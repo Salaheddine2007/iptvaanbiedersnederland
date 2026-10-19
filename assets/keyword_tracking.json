@@ -1231,10 +1231,12 @@
       "keyword": "kingiptv",
       "volume": 50,
       "kd": 20,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-10-19",
       "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/kingiptv/",
+      "type": "spoke"
     },
     {
       "keyword": "argoniptv",
