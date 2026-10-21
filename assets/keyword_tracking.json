@@ -1275,10 +1275,12 @@
       "keyword": "in iptv",
       "volume": 40,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "status": "published",
+      "posted_date": "2026-10-21",
+      "post_id": "instappen-in-iptv",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/instappen-in-iptv/",
+      "type": "spoke"
     },
     {
       "keyword": "iptv multiple connections reddit",
