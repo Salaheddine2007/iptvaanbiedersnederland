@@ -1286,10 +1286,12 @@
       "keyword": "iptv multiple connections reddit",
       "volume": 40,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "status": "published",
+      "posted_date": "2026-10-21",
+      "post_id": "iptv-meerdere-verbindingen-reddit",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/iptv-meerdere-verbindingen-reddit/",
+      "type": "spoke"
     },
     {
       "keyword": "iptv updates",
