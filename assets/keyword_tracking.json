@@ -1308,10 +1308,12 @@
       "keyword": "sbt iptv",
       "volume": 40,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "status": "published",
+      "posted_date": "2026-10-22",
+      "post_id": "sbt-iptv",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/sbt-iptv/",
+      "type": "spoke"
     },
     {
       "keyword": "uhf iptv app",
