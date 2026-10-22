@@ -1297,10 +1297,12 @@
       "keyword": "iptv updates",
       "volume": 40,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "status": "published",
+      "posted_date": "2026-10-22",
+      "post_id": "iptv-updates",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/iptv-updates/",
+      "type": "spoke"
     },
     {
       "keyword": "sbt iptv",
