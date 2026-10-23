@@ -357,8 +357,8 @@ a,button{transition:background-color .25s ease,color .25s ease,border-color .25s
 .slide-badge{display:inline-flex;align-items:center;gap:0.4rem;background:rgba(255,255,255,0.18);border:1px solid rgba(255,255,255,0.35);border-radius:100px;padding:0.32rem 0.9rem;font-size:0.78rem;font-weight:700;color:#fff}
 .slider-btn{position:absolute;top:50%;transform:translateY(-50%);width:44px;height:44px;border-radius:50%;background:#fff;border:1px solid var(--border);box-shadow:0 8px 20px rgba(2,132,199,0.15);font-size:1rem;color:var(--text);cursor:pointer;z-index:10;transition:all .25s ease;display:flex;align-items:center;justify-content:center}
 .slider-btn:hover{background:var(--gold);color:#fff;border-color:var(--gold);transform:translateY(-50%) scale(1.08)}
-.slider-prev{left:-18px}
-.slider-next{right:-18px}
+.slider-prev{left:16px}
+.slider-next{right:16px}
 .slider-dots{display:flex;align-items:center;justify-content:center;gap:0.5rem;margin-top:1.25rem}
 .slider-dot{width:8px;height:8px;border-radius:100px;background:rgba(2,132,199,0.18);border:none;cursor:pointer;transition:all .3s ease;padding:0}
 .slider-dot.active{background:var(--gold);width:24px}
