@@ -1319,10 +1319,12 @@
       "keyword": "uhf iptv app",
       "volume": 40,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-kodi-nederland/"
+      "status": "published",
+      "posted_date": "2026-10-23",
+      "post_id": "uhf-iptv-app",
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/uhf-iptv-app/",
+      "type": "spoke"
     },
     {
       "keyword": "link epg iptv",
