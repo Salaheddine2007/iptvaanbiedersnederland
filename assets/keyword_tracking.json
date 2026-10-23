@@ -1330,10 +1330,12 @@
       "keyword": "link epg iptv",
       "volume": 40,
       "kd": 5,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-kanalen-nederland/"
+      "status": "published",
+      "posted_date": "2026-10-23",
+      "post_id": "link-epg-iptv",
+      "trunk": "/iptv-kanalen-nederland/",
+      "url": "/blog/link-epg-iptv/",
+      "type": "spoke"
     },
     {
       "keyword": "forever tv iptv",
