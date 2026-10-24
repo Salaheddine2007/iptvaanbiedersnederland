@@ -1339,11 +1339,10 @@
     },
     {
       "keyword": "forever tv iptv",
-      "volume": 40,
-      "kd": 10,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
+      "status": "published",
+      "url": "/blog/forever-tv-iptv/",
+      "type": "spoke",
+      "posted_date": "2026-10-24",
       "trunk": "/iptv-aanbieders-nederland/"
     },
     {
