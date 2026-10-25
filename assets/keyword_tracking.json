@@ -1371,10 +1371,12 @@
       "keyword": "hd tv iptv",
       "volume": 40,
       "kd": 56,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-10-25",
       "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/hd-tv-iptv/",
+      "type": "spoke"
     },
     {
       "keyword": "android tv stick iptv",
