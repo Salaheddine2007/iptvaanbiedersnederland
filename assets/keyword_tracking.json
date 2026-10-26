@@ -1393,10 +1393,12 @@
       "keyword": "code iptv m3u",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-10-26",
       "post_id": null,
-      "trunk": "/iptv-kodi-nederland/"
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/code-iptv-m3u/",
+      "type": "spoke"
     },
     {
       "keyword": "formula iptv box",
