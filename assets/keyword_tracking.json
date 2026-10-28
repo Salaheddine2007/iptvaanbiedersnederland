@@ -1426,10 +1426,12 @@
       "keyword": "https cc iptv space",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-10-28",
       "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/cc-iptv-space-review/",
+      "type": "spoke"
     },
     {
       "keyword": "iptv code alibaba",
