@@ -1448,10 +1448,12 @@
       "keyword": "iptv italia abbonamenti",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-10-29",
       "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/iptv-italia-abbonamenti/",
+      "type": "spoke"
     },
     {
       "keyword": "iptv mate review",
