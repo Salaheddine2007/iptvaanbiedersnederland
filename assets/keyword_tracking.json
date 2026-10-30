@@ -1470,10 +1470,12 @@
       "keyword": "iptv mytv best",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-10-30",
       "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/iptv-mytv-best/",
+      "type": "spoke"
     },
     {
       "keyword": "iptv pro max",
