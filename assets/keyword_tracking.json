@@ -1503,10 +1503,12 @@
       "keyword": "iptv test alibaba",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "status": "published",
+      "posted_date": "2026-10-31",
+      "post_id": "iptv-test-alibaba",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/iptv-test-alibaba/",
+      "type": "spoke"
     },
     {
       "keyword": "iptv 直播 源 最新",
