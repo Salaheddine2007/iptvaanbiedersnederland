@@ -1523,10 +1523,12 @@
       "keyword": "king iptv reddit review",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-01",
+      "post_id": "king-iptv-reddit-reviews",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/king-iptv-reddit-reviews/",
+      "type": "spoke"
     },
     {
       "keyword": "m3u iptv samsung tv",
