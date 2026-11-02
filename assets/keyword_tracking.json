@@ -1545,10 +1545,12 @@
       "keyword": "my iptv app download",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-kodi-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-02",
+      "post_id": "my-iptv-app-download",
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/my-iptv-app-download/",
+      "type": "spoke"
     },
     {
       "keyword": "omn iptv",
