@@ -1583,10 +1583,12 @@
       "keyword": "smarters iptv for windows",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-kodi-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-02",
+      "post_id": "smarters-iptv-windows",
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/smarters-iptv-windows/",
+      "type": "spoke"
     },
     {
       "keyword": "stream iptv max review",
