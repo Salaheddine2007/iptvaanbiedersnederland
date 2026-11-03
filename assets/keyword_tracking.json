@@ -1556,19 +1556,25 @@
       "keyword": "omn iptv",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-11-03",
       "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/omniiptv/",
+      "type": "spoke",
+      "merged_into": "/blog/omniiptv/"
     },
     {
       "keyword": "promax iptv",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-11-03",
       "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/iptv-pro-max/",
+      "type": "spoke",
+      "merged_into": "/blog/iptv-pro-max/"
     },
     {
       "keyword": "sansat iptv",
@@ -1614,10 +1620,12 @@
       "keyword": "your iptv list link is unreachable",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-11-03",
       "post_id": null,
-      "trunk": "/iptv-kanalen-nederland/"
+      "trunk": "/iptv-kanalen-nederland/",
+      "url": "/blog/your-iptv-list-link-is-unreachable/",
+      "type": "spoke"
     },
     {
       "keyword": "android ip tv box",
@@ -8445,10 +8453,13 @@
       "keyword": "iptv promax",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-11-03",
       "post_id": null,
-      "trunk": "/iptv-kodi-nederland/"
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/iptv-pro-max/",
+      "type": "spoke",
+      "merged_into": "/blog/iptv-pro-max/"
     },
     {
       "keyword": "iptv provider comparison",
