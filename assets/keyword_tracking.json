@@ -1602,10 +1602,12 @@
       "keyword": "stream iptv max review",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-04",
+      "post_id": "stream-iptv-max-review",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/stream-iptv-max-review/",
+      "type": "spoke"
     },
     {
       "keyword": "vidaa os iptv",
