@@ -1613,10 +1613,12 @@
       "keyword": "vidaa os iptv",
       "volume": 30,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-11-04",
       "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/vidaa-os-iptv/",
+      "type": "spoke"
     },
     {
       "keyword": "your iptv list link is unreachable",
