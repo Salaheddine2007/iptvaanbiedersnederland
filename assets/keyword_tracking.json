@@ -1644,10 +1644,12 @@
       "keyword": "illegaal tv abonnement",
       "volume": 30,
       "kd": 35,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-11-05",
       "post_id": null,
-      "trunk": "/legale-iptv-nederland/"
+      "trunk": "/legale-iptv-nederland/",
+      "url": "/blog/illegaal-tv-abonnement/",
+      "type": "spoke"
     },
     {
       "keyword": "iptvao premium",
