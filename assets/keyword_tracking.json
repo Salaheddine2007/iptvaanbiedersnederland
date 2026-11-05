@@ -1512,12 +1512,13 @@
     },
     {
       "keyword": "iptv 直播 源 最新",
-      "volume": 30,
-      "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "status": "published",
+      "url": "/iptv-aanbieders-nederland/",
+      "type": "spoke",
+      "posted_date": "2026-11-05",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "merged_into": "/iptv-aanbieders-nederland/",
+      "note": "Non-Latin-script keyword, not actionable for a Dutch-language site; merged into trunk instead of a dedicated page."
     },
     {
       "keyword": "king iptv reddit review",
@@ -1633,12 +1634,12 @@
     },
     {
       "keyword": "android ip tv box",
-      "volume": 30,
-      "kd": 14,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-boxen-nederland/"
+      "status": "published",
+      "url": "/blog/android-box-iptv/",
+      "type": "spoke",
+      "posted_date": "2026-11-05",
+      "trunk": "/iptv-boxen-nederland/",
+      "merged_into": "/blog/android-box-iptv/"
     },
     {
       "keyword": "illegaal tv abonnement",
@@ -1655,10 +1656,12 @@
       "keyword": "iptvao premium",
       "volume": 30,
       "kd": 56,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-11-05",
       "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/iptvao-premium/",
+      "type": "spoke"
     },
     {
       "keyword": "2 iptv",
