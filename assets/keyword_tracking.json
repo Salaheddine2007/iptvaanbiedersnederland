@@ -1711,10 +1711,12 @@
       "keyword": "4k iptv player",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-11-08",
       "post_id": null,
-      "trunk": "/iptv-kodi-nederland/"
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/4k-iptv-player/",
+      "type": "spoke"
     },
     {
       "keyword": "4k ott iptv",
