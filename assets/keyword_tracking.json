@@ -1733,10 +1733,12 @@
       "keyword": "50 fps iptv",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-11-09",
       "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/50-fps-iptv/",
+      "type": "spoke"
     },
     {
       "keyword": "8k iptv box",
