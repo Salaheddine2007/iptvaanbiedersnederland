@@ -1766,10 +1766,12 @@
       "keyword": "abonnement iptv belgique",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-11-10",
       "post_id": null,
-      "trunk": "/iptv-kopen-nederland/"
+      "trunk": "/iptv-kopen-nederland/",
+      "url": "/blog/abonnement-iptv-belgie/",
+      "type": "spoke"
     },
     {
       "keyword": "abonnement iptv premium",
