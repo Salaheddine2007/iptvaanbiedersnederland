@@ -1777,10 +1777,12 @@
       "keyword": "abonnement iptv premium",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-11-11",
       "post_id": null,
-      "trunk": "/iptv-kopen-nederland/"
+      "trunk": "/iptv-kopen-nederland/",
+      "url": "/blog/abonnement-iptv-premium/",
+      "type": "spoke"
     },
     {
       "keyword": "abonnement smart tv iptv",
