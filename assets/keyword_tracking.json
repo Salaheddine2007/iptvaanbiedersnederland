@@ -1821,10 +1821,12 @@
       "keyword": "admin iptv",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-11-13",
       "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/admin-iptv/",
+      "type": "spoke"
     },
     {
       "keyword": "adult iptv list",
