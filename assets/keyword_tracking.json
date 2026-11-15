@@ -1895,10 +1895,12 @@
       "keyword": "alibaba iptv reddit",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-15",
+      "post_id": "alibaba-iptv-reddit",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/alibaba-iptv-reddit/",
+      "type": "spoke"
     },
     {
       "keyword": "aliexpress iptv reddit",
