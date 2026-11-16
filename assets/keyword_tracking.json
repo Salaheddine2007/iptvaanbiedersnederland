@@ -1928,10 +1928,12 @@
       "keyword": "alternatief iptv",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-16",
+      "post_id": "alternatief-iptv",
+      "trunk": "/iptv-aanbieders-nederland/",
+      "url": "/blog/alternatief-iptv/",
+      "type": "spoke"
     },
     {
       "keyword": "amazon fire tv stick iptv player",
