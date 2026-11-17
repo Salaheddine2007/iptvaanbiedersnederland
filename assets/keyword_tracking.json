@@ -1939,10 +1939,12 @@
       "keyword": "amazon fire tv stick iptv player",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-boxen-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-17",
+      "post_id": "amazon-fire-tv-stick-iptv-player",
+      "trunk": "/iptv-boxen-nederland/",
+      "url": "/blog/amazon-fire-tv-stick-iptv-player/",
+      "type": "spoke"
     },
     {
       "keyword": "american iptv m3u",
