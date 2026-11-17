@@ -1950,10 +1950,12 @@
       "keyword": "american iptv m3u",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-kodi-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-17",
+      "post_id": "american-iptv-m3u",
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/american-iptv-m3u/",
+      "type": "spoke"
     },
     {
       "keyword": "amiko a9z pro iptv set top box",
