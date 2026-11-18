@@ -1961,10 +1961,12 @@
       "keyword": "amiko a9z pro iptv set top box",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-11-18",
       "post_id": null,
-      "trunk": "/iptv-boxen-nederland/"
+      "trunk": "/iptv-boxen-nederland/",
+      "url": "/blog/amiko-a9z-pro-iptv-set-top-box/",
+      "type": "spoke"
     },
     {
       "keyword": "anbieter iptv",
