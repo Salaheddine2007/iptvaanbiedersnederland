@@ -1983,10 +1983,12 @@
       "keyword": "android iptv apk",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-11-19",
       "post_id": null,
-      "trunk": "/iptv-kodi-nederland/"
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/android-iptv-apk/",
+      "type": "spoke"
     },
     {
       "keyword": "android iptv uygulamaları",
