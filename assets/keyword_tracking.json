@@ -1994,10 +1994,12 @@
       "keyword": "android iptv uygulamaları",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
+      "status": "published",
+      "posted_date": "2026-11-20",
       "post_id": null,
-      "trunk": "/iptv-aanbieders-nederland/"
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/android-iptv-uygulamalari/",
+      "type": "spoke"
     },
     {
       "keyword": "android tv apps iptv",
