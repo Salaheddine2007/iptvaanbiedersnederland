@@ -2005,10 +2005,12 @@
       "keyword": "android tv apps iptv",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-kodi-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-20",
+      "post_id": "android-tv-apps-iptv",
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/android-tv-apps-iptv/",
+      "type": "spoke"
     },
     {
       "keyword": "android tv iptv player",
