@@ -369,3 +369,8 @@ a,button{transition:background-color .25s ease,color .25s ease,border-color .25s
   .slider-next{right:8px}
   .slide-overlay{padding:1rem 1.25rem}
 }
+
+/* mobile-overflow-fix: pricing toggle was 16px wider than a 320px phone */
+html, body { overflow-x: clip; }
+.toggle-btn { min-width: 0; }
+@media (max-width: 380px) { .toggle-btn { padding: 0.6rem 0.75rem; font-size: 0.85rem; } }
