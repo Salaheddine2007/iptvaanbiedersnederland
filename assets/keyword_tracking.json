@@ -2016,10 +2016,12 @@
       "keyword": "android tv iptv player",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-kodi-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-21",
+      "post_id": "android-tv-iptv-player",
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/android-tv-iptv-player/",
+      "type": "spoke"
     },
     {
       "keyword": "apk iptv android",
