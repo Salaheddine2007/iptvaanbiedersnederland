@@ -2027,10 +2027,12 @@
       "keyword": "apk iptv android",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-kodi-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-22",
+      "post_id": "apk-iptv-android",
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/apk-iptv-android/",
+      "type": "spoke"
     },
     {
       "keyword": "aplicaciones iptv",
