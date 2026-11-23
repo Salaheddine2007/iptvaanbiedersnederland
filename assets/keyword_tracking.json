@@ -2060,10 +2060,12 @@
       "keyword": "app iptv gratis android",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-kodi-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-23",
+      "post_id": "app-iptv-gratis-android",
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/app-iptv-gratis-android/",
+      "type": "spoke"
     },
     {
       "keyword": "app iptv pc",
