@@ -2104,10 +2104,12 @@
       "keyword": "apple tv app iptv",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-boxen-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-25",
+      "post_id": "apple-tv-app-iptv",
+      "trunk": "/iptv-boxen-nederland/",
+      "url": "/blog/apple-tv-app-iptv/",
+      "type": "spoke"
     },
     {
       "keyword": "apple tv iptv smarters pro",
