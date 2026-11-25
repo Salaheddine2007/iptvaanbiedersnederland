@@ -2093,10 +2093,12 @@
       "keyword": "apple iptv",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-boxen-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-25",
+      "post_id": "apple-iptv",
+      "trunk": "/iptv-boxen-nederland/",
+      "url": "/blog/apple-iptv/",
+      "type": "spoke"
     },
     {
       "keyword": "apple tv app iptv",
