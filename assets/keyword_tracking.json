@@ -2126,10 +2126,12 @@
       "keyword": "application iptv illégal",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-kodi-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-26",
+      "post_id": "application-iptv-illegal",
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/application-iptv-illegal/",
+      "type": "spoke"
     },
     {
       "keyword": "application iptv windows",
