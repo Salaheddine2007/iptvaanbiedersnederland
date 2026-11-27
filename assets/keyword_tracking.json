@@ -2137,10 +2137,12 @@
       "keyword": "application iptv windows",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-kodi-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-27",
+      "post_id": "application-iptv-windows",
+      "trunk": "/iptv-kodi-nederland/",
+      "url": "/blog/application-iptv-windows/",
+      "type": "spoke"
     },
     {
       "keyword": "arabic iptv box",
