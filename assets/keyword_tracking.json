@@ -2148,10 +2148,12 @@
       "keyword": "arabic iptv box",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-boxen-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-27",
+      "post_id": "arabic-iptv-box",
+      "trunk": "/iptv-boxen-nederland/",
+      "url": "/blog/arabic-iptv-box/",
+      "type": "spoke"
     },
     {
       "keyword": "arabic iptv subscription",
