@@ -2159,10 +2159,12 @@
       "keyword": "arabic iptv subscription",
       "volume": 20,
       "kd": 0,
-      "status": "pending",
-      "posted_date": null,
-      "post_id": null,
-      "trunk": "/iptv-kopen-nederland/"
+      "status": "published",
+      "posted_date": "2026-11-28",
+      "post_id": "arabic-iptv-subscription",
+      "trunk": "/iptv-kopen-nederland/",
+      "url": "/blog/arabic-iptv-subscription/",
+      "type": "spoke"
     },
     {
       "keyword": "area 51 iptv",
